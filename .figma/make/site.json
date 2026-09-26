@@ -1,0 +1,10 @@
+{
+  "description": "Showcasing research excellence, this platform enhances evidence-based health decisions through impactful research, training, and collaboration across Africa.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
