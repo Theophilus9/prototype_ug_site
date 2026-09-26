@@ -155,11 +155,7 @@ function App() {
                 <Link className="inline-flex items-center justify-center border border-white/30 bg-white/5 px-7 py-4 text-sm font-semibold text-white backdrop-blur-sm transition-colors hover:bg-white/12" href="#training">Study With Us</Link>
               </div>
             </div>
-            <div className="absolute bottom-8 left-5 flex items-center gap-3 lg:left-8">
-              <span className="text-xs font-semibold text-white">01</span>
-              <span className="h-px w-20 bg-white/60"><span className="block h-px w-1/3 bg-gold" /></span>
-              <span className="text-xs text-white/50">03</span>
-            </div>
+            
             <div className="absolute bottom-8 right-5 hidden max-w-[220px] border-l border-gold/60 pl-5 text-xs leading-5 text-white/60 md:block lg:right-8">
               Building the systems and skills that turn knowledge into better health outcomes.
             </div>
