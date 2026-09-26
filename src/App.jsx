@@ -1,7 +1,7 @@
 import { createElement, useState } from "react";
 
 const images = {
-  hero: "https://images.unsplash.com/photo-1576089275954-40cd98bfcfdb?auto=format&fit=crop&w=1800&q=88",
+  hero: "https://cesp.ug.edu.gh/main/web/sites/default/files/styles/wide/public/bootstrap_simple_carousel/Zoom%20background%203.jpg?itok=v2fjQsub",
   director: "https://cesp.ug.edu.gh/main/web/sites/default/files/styles/custom_large_1000_x_514_/public/2023-08/0Y3A9685%20portrait%20new_0.JPG?itok=ruZZQHwM",
   course: "https://images.unsplash.com/photo-1620829813573-7c9e1877706f?auto=format&fit=crop&w=1000&q=86",
   masters: "https://images.unsplash.com/photo-1573164574397-dd250bc8a598?auto=format&fit=crop&w=1000&q=86",
@@ -156,9 +156,6 @@ function App() {
               </div>
             </div>
             
-            <div className="absolute bottom-8 right-5 hidden max-w-[220px] border-l border-gold/60 pl-5 text-xs leading-5 text-white/60 md:block lg:right-8">
-              Building the systems and skills that turn knowledge into better health outcomes.
-            </div>
           </div>
         </section>
 
